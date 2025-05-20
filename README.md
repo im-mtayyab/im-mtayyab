@@ -48,7 +48,7 @@ I believe in writing clean, maintainable code, continuous learning, and developi
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio](#)  
-- 🔗 [LinkedIn](#)  
-- 🐦 [Twitter/X](#)  
+- 🌐 [Portfolio](https://im-mtayyab.netlify.app/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-251a4a282/)  
+- 📱  [Whatsapp](https://wa.me/+923165087120/)  
 - 📧 Email: im.mtayyab@gmail.com  
